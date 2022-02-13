@@ -9,3 +9,17 @@ header .logo {
     left: 20px;
     height: 100%;
 }
+
+header .api_status {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 30px;
+    background-color: #cccccc;
+    float: right;
+    margin-top: -55px;
+}
+
+header div.available {
+    background-color: #ff545f;
+}
